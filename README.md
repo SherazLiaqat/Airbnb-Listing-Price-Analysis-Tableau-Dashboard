@@ -3,8 +3,11 @@ Airbnb Listing Price &amp; Revenue Analysis – Tableau Dashboard  This project 
 Dashboard Visualizations
 
 Average price per bedroom to understand pricing differences by property size
+
 Price per ZIP code to compare location-based pricing
+
 Revenue per year to analyze yearly performance
+
 Distinct count of bedrooms per year to observe listing trends over time
 
 🛠 Tools & Technologies
